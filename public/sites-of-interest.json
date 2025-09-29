@@ -13,9 +13,9 @@
     "name": "Provin",
     "address": "Provin, 59185 Nord, France",
     "type": "city",
-    "latitude": 50.5120,
-    "longitude": 2.9100,
-    "picture": ""
+    "latitude": 48.549999,
+    "longitude": 3.3,
+    "picture": "https://provins.net/wp-content/uploads/2018/06/cite-medievale-de-provins-2-880x562.jpg"
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@
     "type": "city",
     "latitude": 44.1478,
     "longitude": 3.0170,
-    "picture": ""
+    "picture": "https://www.campingfrance.com/asset/cms/94932/config/76284/couvertoirade.jpg"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "type": "city",
     "latitude": 45.5746,
     "longitude": 2.0307,
-    "picture": ""
+    "picture": "https://www.plusbeauxdetours.com/wp-content/uploads/2020/05/Vue-chevet-abbaye-web.jpg"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "type": "city",
     "latitude": 44.9583,
     "longitude": 2.1056,
-    "picture": ""
+    "picture": "https://www.camping-leventoulou.com/wp-content/uploads/2024/01/beaulieu-sur-dordogne-ventoulou.jpg"
   },
   {
     "id": 8,
@@ -60,7 +60,7 @@
     "type": "city",
     "latitude": 45.0499,
     "longitude": 2.5861,
-    "picture": ""
+    "picture": "https://creativecommons.fr/wp-content/uploads/2025/04/2025-04-30-12-06-30_-1024x572.webp"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "type": "city",
     "latitude": 46.4996,
     "longitude": 0.5300,
-    "picture": ""
+    "picture": "https://www.tourisme-vienne.com/wp-content/uploads/yatadata/PCUAQU086V5015P1/cite-medievale-de-chauvigny-loic-lagarde-2318-scaled.jpg"
   },
   {
     "id": 11,
@@ -78,7 +78,7 @@
     "type": "city",
     "latitude": 43.216667,
     "longitude": 2.350000,
-    "picture": ""
+    "picture": "https://res.cloudinary.com/enchanting/q_70,f_auto,c_fill,g_face/leboat-web/2024/07/carcassonne_canal_du-midi_card_800x430.jpg"
   },
   {
     "id": 12,
@@ -87,7 +87,7 @@
     "type": "castel",
     "latitude": 44.8095,
     "longitude": 1.1427,
-    "picture": ""
+    "picture": "https://www.slow-village.com/wp-content/uploads/2024/11/%C2%A9-JM-Laugery-DJI_0040-scaled-1.webp"
   },
   {
     "id": 13,
@@ -96,7 +96,7 @@
     "type": "castel",
     "latitude": 44.8992,
     "longitude": 1.8264,
-    "picture": ""
+    "picture": "https://media.artabsolument.com/image/place/big/castelnau.jpg"
   },
   {
     "id": 14,
@@ -105,7 +105,7 @@
     "type": "city",
     "latitude": 44.5853,
     "longitude": 2.5553,
-    "picture": ""
+    "picture": "https://www.tourisme-conques.fr/upload/page/79/conques-vue-cendie-medium.png"
   },
   {
     "id": 15,
@@ -114,7 +114,7 @@
     "type": "castel",
     "latitude": 47.725278,
     "longitude": -2.618611,
-    "picture": ""
+    "picture": "https://static.actu.fr/uploads/2025/05/0c5f153baa446406f153baa44446f1v-960x640.jpg"
   },
   {
     "id": 16,
@@ -285,7 +285,7 @@
     "type": "castel",
     "latitude": 44.6283,
     "longitude": 0.8853,
-    "picture": ""
+    "picture": "https://chateau-biron.fr/wp-content/uploads/2025/03/chateau-de-biron-ok.webp"
   },
   {
     "id": 35,
@@ -2220,7 +2220,7 @@
     "type": "city",
     "latitude": 43.6560,
     "longitude": 6.3530,
-    "picture": ""
+    "picture": "https://www.francecomfort.com/l/fr/library/download/urn:uuid:e22b3509-4c1e-4242-a1b3-8f3701e80198/tourtour+1+vakantiehuis+luxe+villa+zwembad+var+provence+frankrijk+plus+beau+village.jpg?width=1280&height=800&scaleType=6"
   },
   {
     "id": 320,
@@ -2229,7 +2229,7 @@
     "type": "city",
     "latitude": 47.5100,
     "longitude": 4.3200,
-    "picture": ""
+    "picture": "https://www.bourgogne-tourisme.com/uploads/external/78ebe4e59f79fabc2f0c560d203f1e71-31944-pont-pinard-1600x0.png"
   },
   {
     "id": 321,
@@ -2238,7 +2238,7 @@
     "type": "city",
     "latitude": 44.2830,
     "longitude": 3.2500,
-    "picture": ""
+    "picture": "https://static-otelico.com/cache/caze_enimie/saint-chely-du-tarn-lozere.jpg"
   },
   {
     "id": 322,
@@ -2247,7 +2247,7 @@
     "type": "city",
     "latitude": 48.4000,
     "longitude": 2.7970,
-    "picture": ""
+    "picture": "https://www.plusbeauxdetours.com/wp-content/uploads/2020/04/webavantMoret-sur-Loing.jpg"
   },
   {
     "id": 323,
@@ -2256,7 +2256,7 @@
     "type": "city",
     "latitude": 44.4910,
     "longitude": 1.6250,
-    "picture": ""
+    "picture": "https://explorez.com/wp-content/uploads/2022/02/Saint-Cirq-Lapopie-6_Virginie-Verglas_Instant-decisif-scaled.jpeg"
   },
   {
     "id": 324,
@@ -2265,7 +2265,7 @@
     "type": "city",
     "latitude": 47.8570,
     "longitude": -2.8410,
-    "picture": ""
+    "picture": "https://www.poul-fetan.bzh/wp-content/uploads/2021/06/villageois-cheval-rire-1.jpg"
   },
   {
     "id": 325,
@@ -2274,7 +2274,7 @@
     "type": "city",
     "latitude": 44.8880,
     "longitude": 1.2150,
-    "picture": ""
+    "picture": "https://ulysse.com/news/wp-content/uploads/2025/04/Le-village-de-Sarlat-la-Caneda.jpg"
   },
   {
     "id": 326,
@@ -2283,7 +2283,7 @@
     "type": "monument",
     "latitude": 48.7110,
     "longitude": -4.5660,
-    "picture": ""
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_-OGz4KETb-S8PpIjZb6ne_guAKqwAInhPQ&s"
   },
   {
     "id": 327,
@@ -2292,7 +2292,7 @@
     "type": "city",
     "latitude": 44.7820,
     "longitude": 0.8830,
-    "picture": ""
+    "picture": "https://petitescitesdecaractere.com/sites/default/files/photo_issigeac_3-_credit_lezbroz.jpg"
   },
   {
     "id": 328,
@@ -2301,7 +2301,7 @@
     "type": "city",
     "latitude": 44.5500,
     "longitude": 3.6000,
-    "picture": ""
+    "picture": "https://cdt48.media.tourinsoft.eu/upload/PCULAR048V50AT5L-champerboux1.jpg?width=1050&height=600&crop=1"
   },
   {
     "id": 329,
@@ -2319,7 +2319,7 @@
     "type": "city",
     "latitude": 44.5150,
     "longitude": 1.6160,
-    "picture": ""
+    "picture": "https://www.pariszigzag.fr/wp-content/uploads/2024/06/loubressac.webp"
   },
   {
     "id": 331,

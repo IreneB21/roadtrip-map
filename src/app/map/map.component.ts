@@ -69,8 +69,8 @@ export class MapComponent implements AfterViewInit {
               .filter((site: { type: string; }) => this.displayedSites === 'all' || site.type === this.displayedSites)
               .map((site: { latitude: number; longitude: number; picture: any; name: any; address: any; }) => 
                 L.marker([site.latitude, site.longitude], { icon: this.icon })
-                  .bindPopup(`<img style="max-height: 200px; width: auto;" src="${site.picture}">
-                            <br>${site.name}
+                  .bindPopup(`<img style="max-height: 200px; width: 270px;" src="${site.picture}">
+                            <br><em>${site.name}</em>
                             <br>${site.address}`)
                   .addTo(this.map)
               );
